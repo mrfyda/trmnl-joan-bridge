@@ -1,0 +1,19 @@
+# Compiled binaries
+bin/
+
+# Live MITM captures (device traffic)
+captures/
+
+# Scratch debug/test harnesses
+zz_*.go
+
+# All local research artifacts live here
+exploration/
+
+# macOS
+.DS_Store
+
+# Editor
+.idea/
+.vscode/
+*.swp
